@@ -1,0 +1,2 @@
+- use SEP41 vault shares
+- remove fee functioan
